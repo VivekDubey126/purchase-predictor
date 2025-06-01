@@ -6,7 +6,6 @@ pickle
 seaborn
 matplotlib
 scikit-learn
---upgrade pip
 pip install --upgrade pip setupttols wheel
 pandas==1.5.3
 numpy==1.23.5
